@@ -1,0 +1,43 @@
+https://www.coursera.org/learn/bioinformatics-methods-1/home/welcome
+
+1
+30-50
+XM_002880967.1
+
+0.0
+202
+tblastn
+
+many
+local
+better
+
+heuristic
+all 6
+aliphatic
+3 hsps
+mafft
+
+true
+10
+67
+
+64
+72
+y
+
+ogr
+cyano
+carbo
+
+convergent parallel
+nylon larger
+comp fast
+dN/dS
+Ka/Ks < 1
+
+c. rubella
+unknown
+DYGG
+no or lil penalty
+((((Arabidopsis thaliana, Capsella rubella),(Ricinus communis, Vitis vinifera)), Lotus japonicus), Zea mays)
