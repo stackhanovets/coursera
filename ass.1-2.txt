@@ -1,0 +1,32 @@
+constant
+123abc
+spam.23
+spam
+sum
+()
+2
+5
+98
+from user
+
+indent
+=
+all three
+de-indent
+mixed
+else
+small all
+regardless
+1
+-1
+
+def
+de-indent
+built-in
+There
+x
+10 20
+x print hello return stuff()
+bonjour
+2
+more than once
