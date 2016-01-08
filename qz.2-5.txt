@@ -31,4 +31,13 @@ bonjour
 2
 more than once
 
-
+forever
+exits program
+next i 
+5
+friend
+sum
+-1
+matches
+while
+0
