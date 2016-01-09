@@ -32,7 +32,7 @@ bonjour
 more than once
 
 forever
-exits program
+exits loop
 next i 
 5
 friend
