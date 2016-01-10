@@ -1,0 +1,9 @@
+https://www.coursera.org/learn/statistical-inference/home/welcome
+http://www.rpubs.com/tomlous/coursera-statistical-inference-quiz1
+
+11
+p/(1-p)=y/x
+0
+3
+40
+
