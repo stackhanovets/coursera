@@ -1,0 +1,13 @@
+https://www.coursera.org/learn/regression-models/home/welcome
+http://www.rpubs.com/iammxt/regmods13-quiz1
+
+0.1471
+0.8263
+-5.344
+1
+0.6
+-0.9719
+1.567
+0
+0.573
+Var(Y)/Var(X)
