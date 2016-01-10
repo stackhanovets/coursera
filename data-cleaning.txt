@@ -1,0 +1,11 @@
+https://www.coursera.org/learn/data-cleaning/home/welcome
+https://rpubs.com/njvijay/15740
+http://xmuxiaomo.github.io/2015/07/10/Getting-and-Cleaning-Data-Quiz-1/
+http://mhwong2007.logdown.com/posts/284672
+
+53
+1 var/col
+36534720
+127
+DT[,mean(pwgtp15),by=SEX]
+
