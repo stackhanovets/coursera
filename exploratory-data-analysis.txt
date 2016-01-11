@@ -12,3 +12,14 @@ lines()
 windows() - win, quartz() - mac
 plottin symbol/char
 construct on screen device to pdf 
+
+trellis
+3 panels weight/time
+panel.abline()
+p not printed
+trellis.par.set()
+Leland Wilkinson
+airquality = transform
+plotting
+ggplot not knows
+geom_smooth()
