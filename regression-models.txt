@@ -1,5 +1,4 @@
 https://www.coursera.org/learn/regression-models/home/welcome
-http://www.rpubs.com/iammxt/regmods13-quiz1
 
 0.1471
 0.8263
@@ -11,3 +10,27 @@ http://www.rpubs.com/iammxt/regmods13-quiz1
 0
 0.573
 Var(Y)/Var(X)
+
+0.05296
+0.223
+18.991
+mpg/1000 lb
+27.57
+-12.973
+*100
+b0 - cb1
+0.25
+= 0 with intercept
+
+-6.071
+Holding weight constant, cylinder appears to have less of an impact on mpg than if weight is disregarded.
+0.9946
+-134
+It is possible for the coefficient to reverse sign after adjustment. For example, it can be strongly significant and positive before adjustment and strongly significant and negative after adjustment.
+
+0.969
+0.969
+reverse signs
+0.9457
+unchanged
+1.013
