@@ -2,6 +2,8 @@ https://www.coursera.org/learn/data-cleaning/home/welcome
 https://rpubs.com/njvijay/15740
 http://xmuxiaomo.github.io/2015/07/10/Getting-and-Cleaning-Data-Quiz-1/
 http://mhwong2007.logdown.com/posts/284672
+https://github.com/pachamaltese/Getting-and-Cleaning-Data/blob/master/quiz2/desarrollo-quiz2.R
+https://github.com/benjamin-chan/GettingAndCleaningData/blob/master/Quiz3/quiz3.md
 
 53
 1 var/col
@@ -9,3 +11,19 @@ http://mhwong2007.logdown.com/posts/284672
 127
 DT[,mean(pwgtp15),by=SEX]
 
+2013-11-07T13:25:07Z
+sqldf("select pwgtp1 from acs where AGEP < 50")
+sqldf("select distinct AGEP from acs")
+45 31 7 25
+32426.7
+
+125 238 262
+-15259150 -10575416
+St. Kitts and Nevis 189
+91.91 32.97
+
+15
+377652.4
+grep("^United",countryNames), 3
+13
+250, 47
