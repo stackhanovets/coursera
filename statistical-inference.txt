@@ -7,3 +7,29 @@ p/(1-p)=y/x
 3
 40
 
+s^2/n
+16
+1223
+1112
+19
+68
+0.5
+0.12
+
+1077 1123
+2.60
+paired
+-2.75 -1.25
+narrower
+When subtracting (old - new) the interval is entirely above zero. The new system appears to be effective.
+-5.364, -2.636
+
+0.087
+1077 1123
+0.31
+0.03
+<0.01
+No you wouldn't reject.
+0.80
+140
+You will get larger power.
