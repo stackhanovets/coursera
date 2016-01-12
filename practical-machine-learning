@@ -1,6 +1,4 @@
 https://www.coursera.org/learn/practical-machine-learning/home/welcome
-https://github.com/WinnerTaco/Practical_ML/blob/master/Reponses%20Quiz%201.md
-https://github.com/anhhh11/ML_coursera/blob/master/Quiz2.Rmd
 
 collecting
 overfitting 
@@ -17,3 +15,35 @@ There are values of zero so when you take the log() transform those values will 
 7
 0.65 0.72
 
+PS,WS, PS, Not possible (obtained by guessing; REDO THIS QUESTION)
+The bias is larger and the variance is smaller. Under leave one out cross validation K is equal to the sample size. 
+2.783. It is strange because Area should be a qualitative variable - but tree is reporting the average value of Area as a numeric variable in the leaf predicted for newdata
+Test Set Misclassification: 0.31 Training Set: 0.27
+x.2, x.1, x.5, x.6, x.8, x.4, x.9, x.3, x.7,x.10
+
+RF Accuracy = 0.6082 GBM Accuracy = 0.5152 Agreement Accuracy = 0.6361
+Stacked Accuracy: 0.80 is better than random forests and lda and the same as boosting. 
+Cement
+96
+6.72
+
+1 B
+2 A
+3 B
+4 A
+5 A
+6 x ABC 
+7 x ABC
+8 B
+9 A
+10 A
+11 B
+12 C
+13 B
+14 A
+15 x ABC
+16 x ABC
+17 A
+18 B
+19 B
+20 B
