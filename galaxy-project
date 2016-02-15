@@ -1,0 +1,41 @@
+What versions of software was used for the analysis
+None of these options
+It is a minimum standard to allow computational research to be reviewed and inspected
+All of these options
+Yes, modern software platforms (including Galaxy) were created to help researchers meet these challenges
+As a website that is free for everyone to use
+All of these options
+Provides an environment for researchers to easily use existing bioinformatic software and record and share the results
+An email account and a web browser
+All of these options
+Is highly configurable for many types of compute infrastructure
+
+1 The Tool Panel
+2 The History
+3 Get Data in the tool panel
+4 BED file format
+5 The genome the feature belongs to
+6 Join overlapping region from two or more datasets
+7 How many repeat regions overlap each exon region?
+8 Count the occurrence of each record or data field within a file
+9 All of these options
+10 Edit a dataset’s contents
+11 1720
+12 1510
+13 An abstract representation of a multi-step analysis
+14 All of these options
+15 Galaxy allows sending workflow data to a new history
+16 Both of these options
+17 An item can have more than one of them
+18 They can contain arbitrary free form text
+19 All of these options
+20 Only certain users will be able to access it
+21 The history will be listed in a central, public place within Galaxy and all users can access it
+22 The email associated with the user's Galaxy account
+23 Anyone who knows the URL (the browser address)
+24 Shared Data -> Published Histories
+25 From the same interface used to make it accessible: use the 'Share or Publish' link in the history options
+26 All of these options
+27 They can be used to describe why an analysis was performed in a particular way
+28 Another way to share data and make it easy to find
+
