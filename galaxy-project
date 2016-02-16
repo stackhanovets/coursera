@@ -1,43 +1,82 @@
+1. What details do some modern papers fail to provide that inhibit reproducibility?
 What versions of software was used for the analysis
+2. What is reproducibility?
 None of these options
+3. Why is reproducibility important?
 It is a minimum standard to allow computational research to be reviewed and inspected
+4. Which of the following might be considered necessary to increase reproducibility in modern analysis?
 All of these options
+5. Is this challenge surmountable?
 Yes, modern software platforms (including Galaxy) were created to help researchers meet these challenges
+6. Galaxy is available as:
 As a website that is free for everyone to use
+7. How can you extend Galaxy?
 All of these options
+8. Galaxy...
 Provides an environment for researchers to easily use existing bioinformatic software and record and share the results
+9. You need what to use the public Galaxy site usegalaxy.org?
 An email account and a web browser
+10. For analysis where usegalaxy.org does not provide appropriate computation power or tools, you can:
 All of these options
+11. Galaxy...
 Is highly configurable for many types of compute infrastructure
 
-1 The Tool Panel
-2 The History
-3 Get Data in the tool panel
-4 BED file format
-5 The genome the feature belongs to
-6 Join overlapping region from two or more datasets
-7 How many repeat regions overlap each exon region?
-8 Count the occurrence of each record or data field within a file
-9 All of these options
-10 Edit a dataset’s contents
-11 1720
-12 1510
-13 An abstract representation of a multi-step analysis
-14 All of these options
-15 Galaxy allows sending workflow data to a new history
-16 Both of these options
-17 An item can have more than one of them
-18 They can contain arbitrary free form text
-19 All of these options
-20 Only certain users will be able to access it
-21 The history will be listed in a central, public place within Galaxy and all users can access it
-22 The email associated with the user's Galaxy account
-23 Anyone who knows the URL (the browser address)
-24 Shared Data -> Published Histories
-25 From the same interface used to make it accessible: use the 'Share or Publish' link in the history options
-26 All of these options
-27 They can be used to describe why an analysis was performed in a particular way
-28 Another way to share data and make it easy to find
+1. Where are basic analyses you can perform found in the Galaxy interface?
+The Tool Panel
+2. Where are the datafiles and output of analysis you have performed located in the Galaxy interface?
+The History
+3. Where can I find tools that download or upload data to Galaxy?
+Get Data in the tool panel
+4. What file format was used for both the exon and repeat data in the exercise?
+BED file format
+5. What information is not contained within a BED file?
+The genome the feature belongs to
+6. What does the “Operate on Genomic Intervals: Join” tool do?
+Join overlapping region from two or more datasets
+7. What question are we trying to answer using the exon and repeat data?
+How many repeat regions overlap each exon region?
+8. Which of the following can be done with the group tool?
+Count the occurrence of each record or data field within a file
+9. How does Galaxy assist in the reproducibility of analysis?
+All of these options
+10. The “pencil” icon in the Galaxy history allows you to do all but
+Edit a dataset’s contents
+11. The file Quiz3_Genes.bed contains locations of how many transcripts?
+1720
+12. The file Quiz3_Genes.bed contains locations of how many genes?
+1510
+13. What is a workflow?
+An abstract representation of a multi-step analysis
+14. How can a workflow be added to a Galaxy instance?
+All of these options
+15. Which of the following statements is true?
+Galaxy allows sending workflow data to a new history
+16. Which are advanced options available in workflows?
+Both of these options
+17. Which of the following is true of tags?
+An item can have more than one of them
+18. Which of the following is true of annotations?
+They can contain arbitrary free form text
+19. Which of the following is true of tags and annotations?
+All of these options
+20. What does it mean to share a galaxy history?
+Only certain users will be able to access it
+21. What does it mean to publish a galaxy history?
+The history will be listed in a central, public place within Galaxy and all users can access it
+22. What do you need to share a history with just one user?
+The email associated with the user's Galaxy account
+23. Who can see a history that's been made 'accessible'?
+Anyone who knows the URL (the browser address)
+24. Where are published histories found on Galaxy?
+Shared Data -> Published Histories
+25. What can you do if you no longer want a history to be accessible?
+From the same interface used to make it accessible: use the 'Share or Publish' link in the history options
+26. What do Galaxy pages allow you to do?
+All of these options
+27. Why can annotations be important in a Galaxy page?
+They can be used to describe why an analysis was performed in a particular way
+28. What are Data Libraries?
+Another way to share data and make it easy to find
 
 Four
 All of these options
@@ -101,4 +140,3 @@ Use Cloudman’s cluster sharing function and make the share string available
 cloudman_keypair.pem
 10. Of the following instance types, what’s the most expensive type of instance to run based on the per hour usage cost?
 r3.4xlarge
-
