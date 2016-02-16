@@ -39,3 +39,65 @@ Is highly configurable for many types of compute infrastructure
 27 They can be used to describe why an analysis was performed in a particular way
 28 Another way to share data and make it easy to find
 
+Four
+All of these options
+Ion torrent
+All of these options
+Per sequence base quality
+Depends on tools used during downstream analysis.
+The locations of protein to DNA interaction
+Peek calling/reconstruction from ChIP-seq data
+Both options
+
+1. What does it mean to align-then-assemble? 
+Align reads to an existing reference genome, and then assemble transcripts from the spliced alignments.
+2. Which of the following statements is FALSE?
+De-novo assembly is not robust to variation
+3. What of following formats can tophat results produce? 
+A) BED format.
+B) ADAM format.
+C) BAM format.
+A and C
+4. Which tool in the cufflinks suite is used to find the differentially expressed genes?
+Cuffdiff
+5. One of the options is NOT a column in the output produced by Cuffdiff.
+Length of the differentially expressed gene
+6. What is the main purpose of Cuffmerge and what is its input format?
+To merge different Cufflinks assemblies together and GTF files.
+7. Can we use Galaxy to run the same tophat (or other tool) job over Multiple datasets?
+Yes, the datasets need to be of the format the tool can take as input.
+8. What Galaxy tool might we use to refine our Cuffdiff output to show only differentially expressed genes?
+Filter
+9. What comes after mapping the RNA seq data to a reference genome?
+Using a reference annotation we continue to do differential expression analysis using the Cufflinks suite.
+10. What is the idea behind setting the tool form “Use Reference Annotation” to “reference annotation as guide” in Cufflinks?
+A) Tells Cufflinks to use the reference annotation to guide the assembly.
+B) Results will contain referenced transcripts, novel genes and isoforms.
+C) Tells Cufflinks to remove all unannotated transcripts.
+A and B
+11. What does the “log2(fold change)” in the gene differential expression testing result mean?
+A) Its the log-ratio of FPKM values for a pair of expressed genes.
+B) Its the log-ratio between mapped and unmapped reads.
+C) It indicates genes with significantly different expression profiles.
+A and C
+
+1. Why would you use a virtual environment (virtualenv) when installing Galaxy?
+Ensures that the Galaxy environment is isolated from anything else installed on your system.
+2. Which file would you edit to add an administrative user to galaxy?
+galaxy.ini
+3. What is the standard way to start the Galaxy server?
+sh run.sh
+4. How is Galaxy primarily distributed?
+Git
+5. What’s the easiest way to find and add new tools to your Galaxy instance?
+Tool Shed
+6. Which Amazon Web Services do we use with Galaxy Cloudlaunch?
+All of these options
+7. Which of the following statements about access keys and security is not true?
+If you lose your cloudman_keypair.pem you can just download it again
+8. What’s an easy and reproducible way to share the work you’ve done on a Galaxy Cloudman Cluster?
+Use Cloudman’s cluster sharing function and make the share string available
+9. Which of these do we not need to simply launch a cluster and use it through the web interface?
+cloudman_keypair.pem
+10. Of the following instance types, what’s the most expensive type of instance to run based on the per hour usage cost?
+r3.4xlarge
