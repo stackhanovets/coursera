@@ -101,3 +101,4 @@ Use Cloudman’s cluster sharing function and make the share string available
 cloudman_keypair.pem
 10. Of the following instance types, what’s the most expensive type of instance to run based on the per hour usage cost?
 r3.4xlarge
+
