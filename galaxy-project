@@ -78,14 +78,23 @@ They can be used to describe why an analysis was performed in a particular way
 28. What are Data Libraries?
 Another way to share data and make it easy to find
 
+1. How many lines make up each record contained in a FASTQ file?
 Four
+2. Which of the following are components of the FASTQ format?
 All of these options
+3. Which of the following is NOT a type of encoding of sequence quality scores in a FASTQ file?
 Ion torrent
+4. Which of the following operations of quality control can be performed with Galaxy’s NGS: QC and manipulation?
 All of these options
+5. Which of the following is NOT part of the FastQC report?
 Per sequence base quality
+6. When do we filter and trim reads? Choose the correct option.
 Depends on tools used during downstream analysis.
+7. What is ChIP sequencing most commonly used to measure?
 The locations of protein to DNA interaction
+8. What is MACS used for?
 Peek calling/reconstruction from ChIP-seq data
+9. What is the advantage of using a control in a ChIP sequencing experiment?
 Both options
 
 1. What does it mean to align-then-assemble? 
